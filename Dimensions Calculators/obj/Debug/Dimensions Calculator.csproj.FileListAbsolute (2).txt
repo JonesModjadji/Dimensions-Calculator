@@ -1,0 +1,26 @@
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\bin\Debug\Dimensions Calculator.exe.config
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form1.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form2.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form3.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form4.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form5.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form6.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Properties.Resources.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.csproj.GenerateResource.Cache
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\bin\Debug\Dimensions Calculator.exe
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\bin\Debug\Dimensions Calculator.pdb
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.exe
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.pdb
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form7.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form8.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.csprojResolveAssemblyReference.cache
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions_Calculator.Form0.resources
+F:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.csproj.ResolveComReference.cache
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.csprojResolveAssemblyReference.cache
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.csproj.ResolveComReference.cache
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.exe
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculator\obj\Debug\Dimensions Calculator.pdb
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions Calculator.csprojResolveAssemblyReference.cache
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions Calculator.csproj.ResolveComReference.cache
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions Calculator.exe
+E:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions Calculator.pdb
