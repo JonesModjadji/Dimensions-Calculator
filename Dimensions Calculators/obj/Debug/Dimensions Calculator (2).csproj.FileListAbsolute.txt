@@ -16,3 +16,21 @@ G:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimen
 G:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form0.resources
 G:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Properties.Resources.resources
 G:\Web Development 2\C# Formative Assessment\Jones Modjadji C1 Programming\Dimensions Calculators\obj\Debug\Dimensions Calculator (2).csproj.GenerateResource.Cache
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\bin\Debug\Dimensions Calculator.exe.config
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions Calculator (2).csproj.ResolveComReference.cache
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions Calculator.exe
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions Calculator.pdb
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\bin\Debug\Dimensions Calculator.exe
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\bin\Debug\Dimensions Calculator.pdb
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions Calculator (2).csprojResolveAssemblyReference.cache
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form1.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form2.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form3.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form4.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form5.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form6.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form7.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form8.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Form0.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions_Calculator.Properties.Resources.resources
+C:\Users\Modjadji\Documents\GitHub\Dimensions-Calculator\Dimensions Calculators\obj\Debug\Dimensions Calculator (2).csproj.GenerateResource.Cache
